@@ -8,21 +8,33 @@ This repository is a collection of various basic algorithms implemented in Pytho
 
 ## Algorithms
 
-### Recursion
-
-- Factorial
-- Fibonacci
-
 ### Searching
 
 - Linear Search
+- Sentinel Linear Search
 - Binary Search
+- Interpolation Search
+- Dict
+- Hash Table
 
 ### Sorting
 
 - Bubble Sort
 - Merge Sort
 - Quick Sort
+- Insertion Sort
+- Heap Sort
+- Radix Sort
+- Selection Sort
+
+### Recursion Example
+
+- Factorial
+- Fibonacci
+- Nested List
+- Reverse String
+- Sum Digit
+- Tree Traversal
 
 ## Installation
 
