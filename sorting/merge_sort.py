@@ -32,9 +32,3 @@ def merge_sort(arr):
 my_list = [64, 34, 25, 12, 22, 11, 90]
 merge_sort(my_list)
 print("Sorted array:", my_list)
-
-64, 34, 25, 12, 22, 11, 90
-64, 34, 25
-64
-
-
